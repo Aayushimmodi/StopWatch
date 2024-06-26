@@ -1,4 +1,9 @@
 # Stopwatch
+
+
+https://github.com/Aayushimmodi/StopWatch/assets/168900747/84f530af-9c5e-4394-9a67-aac03c83e29a
+
+
 ## To build an interactive and user-friendly Stopwatch Web Application using HTML , CSS, JavaScript.
 #### HTML used to sturcture the elements of the apploication.
 #### By implementing functions for starting, pausing and resetting the stopwatch as well as tracking and displaying lap times, user can accurately measure and record time intervals. 
